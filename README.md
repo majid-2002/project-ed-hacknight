@@ -16,10 +16,11 @@ Are you tired of spending hours preparing presentations for your classes or meet
 [Project Video](https://www.youtube.com/watch?v=a8TF_7F7iCI)
 ## How it Works ?
 1. Explaining the working of project
+We use OpenAi api to generate the contents in the presentation also wikipedia images to populate with images for corresponding contents
 2. Embed video of project demo
 ## Libraries used
-Library Name - Version
+ReactJs
 ## How to configure
-Instructions for setting up project
+- npm install
 ## How to Run
-Instructions for running
+- npm start

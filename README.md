@@ -5,8 +5,8 @@
 # Project Name
 Long Description about project. This project do that. This project is awesome...
 ## Team members
-1. (Abdul Majid)[https://www.github.com/majid-2002]
-2. (Aqeel)[https://www.github.com/aqeelshamz]
+1. [Abdul Majid](https://www.github.com/majid-2002)
+2. [Aqeel](https://www.github.com/aqeelshamz)
 ## Link to product walkthrough
 [link to video]
 ## How it Works ?

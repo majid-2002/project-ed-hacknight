@@ -7,6 +7,8 @@ Long Description about project. This project do that. This project is awesome...
 ## Team members
 1. [Abdul Majid](https://www.github.com/majid-2002)
 2. [Aqeel](https://www.github.com/aqeelshamz)
+3. [Anurag](https://github.com/anuragrajanp)
+4. [Sai Nath](https://github.com/sai-na)
 ## Link to product walkthrough
 [link to video]
 ## How it Works ?

@@ -10,9 +10,6 @@ Are you tired of spending hours preparing presentations for your classes or meet
 
 2️⃣. [Aqeel](https://www.github.com/aqeelshamz)
 
-3️⃣. [Anurag](https://github.com/anuragrajanp)
-
-4️⃣. [Sai Nath](https://github.com/sai-na)
 ## Link to product walkthrough
 [link to video]
 ## How it Works ?

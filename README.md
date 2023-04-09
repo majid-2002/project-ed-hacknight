@@ -11,7 +11,7 @@ Are you tired of spending hours preparing presentations for your classes or meet
 2️⃣. [Aqeel](https://www.github.com/aqeelshamz)
 
 ## Link to product walkthrough
-[link to video]
+[Project Video](https://www.youtube.com/watch?v=a8TF_7F7iCI)
 ## How it Works ?
 1. Explaining the working of project
 2. Embed video of project demo
